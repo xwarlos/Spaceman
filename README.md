@@ -1,2 +1,4 @@
 # Spaceman
-SWO Week 3
+
+Proyecto de la tercera semana en SoftwareOne
+cf. https://www.codecademy.com/practice/projects/spaceman-challenge-project
