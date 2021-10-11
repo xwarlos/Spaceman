@@ -23,11 +23,11 @@ namespace Spaceman
     }
 
     public bool DidWin() {
-        return codeWord.Equals(currentWord) ? true : false;
+        return codeWord.Equals(currentWord);
     }
 
     public bool DidLose() {
-        return numGuesses >= maxGuesses ? true : false;
+        return (numGuesses >= maxGuesses);
     }
 
     public void Display() {
